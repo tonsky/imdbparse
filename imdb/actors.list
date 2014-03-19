@@ -1,0 +1,600 @@
+CRC: 0x99B43B7F  File: actors.list  Date: Fri Mar  7 00:00:00 2014
+
+Copyright 1990-2007 The Internet Movie Database, Inc.  All rights reserved. 
+
+COPYING POLICY: Internet Movie Database (IMDb)
+==============================================
+
+    This is a  database  of  movie  related  information  compiled  by
+    Internet  Movie  Database  Ltd (IMDb). While every effort has been
+    made to  ensure  the  accuracy  of  the  database  IMDb  gives  no
+    warranty  as  to  the accuracy of the information contained in the
+    database.  IMDb  reserves  the  right  to   withdraw   or   delete
+    information at any time. 
+       
+    This service is provided for the information of users only. It  is
+    not   provided  with  the  intention  that  users  rely  upon  the
+    information for any purposes. Accordingly,  IMDb  shall  under  no
+    circumstances  be liable for any loss or damage, including but not
+    limited to loss of profits, goodwill or indirect or  consequential
+    loss   arising   out   of  any  use  of  or  inaccuracies  in  the
+    information. All warranties express or  implied  are  excluded  to
+    the fullest extent permissible by law. 
+       
+    All information in this file  is  Copyright  2005  Internet  Movie
+    Database  Limited.  Reproduction,  distribution or transmission by
+    any means without the prior permission of IMDb is prohibited.  All
+    rights reserved. 
+
+    For further info visit http://www.imdb.com/licensing/contact
+       
+         -------------------------------------------------------
+   
+    All data and software released by Internet Movie Database  Ltd  is
+    freely  available  to  anyone  within certain limitations. You are
+    encouraged to quote subsets of the database  in  USENET  articles,
+    movie  related  FAQs,  magazine  articles etc. We do ask, however,
+    that you make reference to the source of the data  and  provide  a
+    pointer to the database for the benefit of the reader. 
+       
+    Permission is granted  by  the  copyright  holder  to  allow  free
+    distribution  of  this  file  and  any  other part of the Internet
+    Movie  Database  in  an  ELECTRONIC  FORM  ONLY,   providing   the
+    following conditions are met: 
+       
+         1. NO FEE OF ANY KIND, however indirect, will be  charged
+            for  its  distribution.  If  this file is being stored
+            for  later  distribution  to  anyone   that   can   be
+            construed   as   a   customer   of  yourself  or  your
+            organisation YOU MUST contact Internet Movie  Database
+            Ltd for permission. 
+            
+         2. Each  of  the  database  files  may   be   distributed
+            individually  but  only  in an unaltered form. All the
+            header and trailer information, including this  notice
+            and  the  details  on how to access the database, must
+            remain intact. 
+            
+         3. Specifically the files may NOT be  used  to  construct
+            any  kind  of  on-line database (except for individual
+            personal use). Clearance for  ALL  such  on-line  data
+            resources   must  be  requested  from  Internet  Movie
+            Database Ltd 
+            
+         4. In addition, copies of  the  Internet  Movie  Database
+            frequently  asked  questions  list and additions guide
+            must be made available in the same area / by the  same
+            method as the other database files. 
+
+         5. CD-ROM  distribution  is  prohibited  without  written
+            permission from the Internet Movie Database Ltd 
+            
+    Distribution by e-mail, BBS and  Internet  systems  is  positively
+    encouraged within these limitations. 
+       
+    The files and software which make up the  movie  database  may  be
+    uploaded  to  commercial  BBS  systems  providing  that  the above
+    conditions are met and no *additional* fees are applied above  the
+    standard connect time or downloading charges. 
+
+    For further info visit http://www.imdb.com/licensing/contact
+
+         -------------------------------------------------------
+
+Welcome to the latest version of the actors list. 
+
+Please feel free to submit entries for actors not already on the list,
+or new entries for existing actors. 
+
+This list is managed by Giancarlo Cairella http://imdb.com/contact from
+1990-1998 it was managed by Col Needham http://imdb.com/contact
+
+If you have any additions or corrections please respond by e-mail only. The 
+section at the end of the list contains details on the formats to use. The
+copying policy is also described at the end of the list.
+
+  
+The Internet Movie Database consists of the following lists:               
+             
+ List                 | Maintained by                             | Updated
+ ---------------------|-------------------------------------------|----------
+ Actors               | Giancarlo Cairella http://imdb.com/contact| 24-06-05
+ Actresses            | Giancarlo Cairella http://imdb.com/contact| 24-06-05
+ Alternative Names    | Duncan Smith http://imdb.com/contact/     | 24-06-05
+ Alternative Titles   | Michel Hafner http://imdb.com/contact/    | 17-06-05
+ Alternative Versions | Giancarlo Cairella http://imdb.com/contact| 17-06-05
+ Biographies          | Geoff Leonard http://imdb.com/contact/    | 24-06-05
+ Business             | Giancarlo Cairella http://imdb.com/contact| 17-06-05
+ Cast Completion      | Giancarlo Cairella http://imdb.com/contact| 17-06-05
+ Certificates         | Peter Simeon http://imdb.com/contact/     | 24-06-05
+ Cinematographers     | Michel Hafner http://imdb.com/contact/    | 17-06-05
+ Color Information    | Mark Bailey http://imdb.com/contact/      | 24-06-05
+ Composers            | Michel Hafner http://imdb.com/contact/    | 17-06-05
+ Costume Designers    | Duncan Smith http://imdb.com/contact/     | 17-06-05
+ Countries            | Peter Simeon http://imdb.com/contact/     | 17-06-05
+ Crazy Credits        | Mark Bailey http://imdb.com/contact/      | 17-06-05
+ Crew Completion      | Giancarlo Cairella http://imdb.com/contact| 17-06-05
+ Directors            | Duncan Smith http://imdb.com/contact/     | 17-06-05
+ Distributors         | Peter Simeon http://imdb.com/contact/     | 24-06-05
+ Editors              | Duncan Smith http://imdb.com/contact/     | 17-06-05
+ Genres               | Jake Dias http://imdb.com/contact/        | 24-06-05
+ Goofs                | Col Needham http://imdb.com/contact/      | 24-06-05
+ Keywords             | Jake Dias http://imdb.com/contact/        | 24-06-05
+ Languages            | Peter Simeon http://imdb.com/contact/     | 24-06-05
+ Laser Discs          | Peter Simeon http://imdb.com/contact/     | 07-21/00
+ Literature           | Giancarlo Cairella http://imdb.com/contact| 17-06-05
+ Locations            | Mark Bailey http://imdb.com/contact/      | 17-06-05
+ MPAA Ratings Reasons | Jon Reeves http://imdb.com/contact/       | 17-06-05
+ Misc. Companies      | Mark Bailey http://imdb.com/contact/      | 24-06-05
+ Misc. Filmography    | Peter Simeon http://imdb.com/contact/     | 24-06-05
+ Movie Links          | Ron Higgins http://imdb.com/contact/      | 24-06-05
+ Movies               | Michel Hafner http://imdb.com/contact/    | 17-06-05
+ Plot Summaries       | Colin Tinto http://imdb.com/contact/      | 24-06-05
+ Producers            | Andre Bernhardt http://imdb.com/contact/  | 17-06-05
+ Production Companies | Mark Bailey http://imdb.com/contact/      | 24-06-05
+ Production Designers | Duncan Smith http://imdb.com/contact/     | 17-06-05
+ Quotes               | Col Needham http://imdb.com/contact/	  | 24-06-05
+ Ratings              | IMDb Helpdesk http://imdb.com/contact/    | 24-06-05
+ Release Dates        | Mark Bailey http://imdb.com/contact/      | 24-06-05
+ Running Times        | Mark Bailey http://imdb.com/contact/      | 24-06-05
+ SFX Companies        | Mark Bailey http://imdb.com/contact/      | 24-06-05
+ Sound Mix            | Mark Bailey http://imdb.com/contact/      | 24-06-05
+ Soundtracks          | Ron Higgins http://imdb.com/contact/      | 24-06-05
+ Tag Lines            | Mark Bailey http://imdb.com/contact/      | 24-06-05
+ Technical Info       | Peter Simeon http://imdb.com/contact/     | 24-06-05
+ Trivia               | Tim Norris http://imdb.com/contact/	  | 24-06-05
+ Writers              | Duncan Smith http://imdb.com/contact/     | 17-06-05
+ ----------------------------------------------------------------------------
+  								    dd/mm/yy
+  
+SEARCHING THE DATABASE
+======================
+
+The movie database frequently asked questions list contains more information
+on the whole movie database project. For a copy send an e-mail message with
+the subject "HELP FAQ" to <mail-server@imdb.com>. Here is a summary of the
+ways to access the database:
+
+(1) WWW interface
+
+    The Internet Movie Database is available over the WWW. The following sites
+    are owned and operated by or for the IMDb:
+
+        http://us.imdb.com/                                 [USA]
+        http://uk.imdb.com/                                 [UK]
+
+    News and pointers to all IMDb sites are available at IMDb HQ:
+
+        http://www.imdb.com/
+
+(2) e-mail interface
+  
+    For details send a message with the subject HELP to <mail-server@imdb.com>
+
+(3) local installation (Unix/Amiga)
+
+    The movie database package enables you to install the data locally and
+    provides a variety of search tools. It is available via anonymous FTP:
+
+ uiarchive.cso.uiuc.edu  in  /pub/info/imdb/tools/moviedb-3.4a.tar.gz
+
+ ftp.funet.fi  in  /pub/culture/tv+film/database/tools/moviedb-3.4a.tar.gz
+
+ ftp.fu-berlin.de  in  /pub/misc/movies/database/tools/moviedb-3.4a.tar.gz
+
+ ftp.sunet.se  in  /pub/tv+movies/imdb/tools/moviedb-3.4a.tar.gz
+
+    see the README file in the same directories for more information. The 
+    Amiga version is in the file imdb3_5_Amiga.lha
+
+(4) local installation (OS/2)
+
+    The Alternative Movie Database package provides a graphical and text
+    based interface for OS/2:
+
+     uiarchive.cso.uiuc.edu  in  /pub/info/imdb/tools/os2/
+
+     ftp.funet.fi  in  /pub/culture/tv+film/database/tools/os2/
+
+     ftp.fu-berlin.de  in  pub/misc/movies/database/tools/os2/
+
+     ftp.sunet.se  in  /pub/tv+movies/imdb/tools/os2/
+
+(5) local installation (Windows 9x/Windows NT)
+
+    The Alternative Movie Database package is also available as a text only
+    interface for Win-32 systems (9x/NT):
+
+     uiarchive.cso.uiuc.edu  in  /pub/info/imdb/tools/w32/
+
+     ftp.funet.fi  in  /pub/culture/tv+film/database/tools/w32/
+
+     ftp.fu-berlin.de  in  pub/misc/movies/database/tools/w32/
+
+     ftp.sunet.se  in  /pub/tv+movies/imdb/tools/w32/
+
+
+
+
+-----------------------------------------------------------------------------
+RULES:
+1       Movies and recurring TV roles only, no TV guest appearances
+2       Please submit entries in the format outlined at the end of the list
+3       Feel free to submit new actors
+
+"xxxxx"        = a television series
+"xxxxx" (mini) = a television mini-series
+[xxxxx]        = character name
+<xx>           = number to indicate billing position in credits
+(TV)           = TV movie, or made for cable movie
+(V)            = made for video movie (this category does NOT include TV 
+                 episodes repackaged for video, guest appearances in 
+                 variety/comedy specials released on video, or 
+                 self-help/physical fitness videos)
+
+THE ACTORS LIST
+===============
+
+Name			Titles 
+----			------
+$, Claw			"OnCreativity" (2012)  [Himself]
+
+$, Homo			Nykytaiteen museo (1986)  [Himself]  <25>
+			Suuri illusioni (1985)  [Guests]  <22>
+
+$, Steve		E.R. Sluts (2003) (V)  <12>
+
+$hort, Too		American Pimp (1999)  [Too $hort]
+			Beats, Rhymes & Life: The Travels of a Tribe Called Quest (2011)  [Himself]
+			Gangsta Rap: The Glockumentary (2007)  [Himself]
+			Get It Where You Fit in 1 (2003) (V)  [Himself]  <1>
+			Ghetto Physics (2010)
+			Ghostride the Whip (2008) (V)  [Himself]
+			Hip Hop Uncensored Vol. 4: Miami Vice (2002) (V)  [Himself]
+			Menace II Society (1993)  [Lew-Loc]  <27>
+			Ozone West 3 (2009) (V)
+			Pimpalation: Return of the Trill (2006)  [Himself]
+			Planet Rock: The Story of Hip-Hop and the Crack Generation (2011) (TV)
+			Porndogs: The Adventures of Sadie (2009)  (voice)  [Bosco]  <3>
+			Rhyme & Reason (1997)  [Himself]
+			Scarface: Greatest Hits on DVD (2003) (V)  (as Too Short)  [Himself (segment "Sex Faces"]
+			Stop Pepper Palmer (2014)  [Himself]
+			Tight (2010) (V)
+			Townbiz (2010)  [Himself]
+			Uprising: Hip Hop and the LA Riots (2012)  [Himself]
+			West Coast Theory (2009) (V)
+			"106 & Park Top 10 Live" (2000) {Busta Rhymes in Da Building}  [Himself - Judge #3]
+			"A.T.S." (2014)  (rumored)  [Himself]
+			"American Gangster" (2006) {Felix Mitchell (#2.6)}  (as Too Short)  [Himself]
+			"And You Don't Stop: 30 Years of Hip-Hop" (2004)  (archive footage)  [Himself]
+			"Celebrity Rap Superstar" (2007)  [Himself]
+			"Couples Therapy" (2012) {Communication Issues (#2.3)}  [Himself]
+			"Couples Therapy" (2012) {Couples Therapy Begins (#2.1)}  [Himself]
+			"Couples Therapy" (2012) {Dourtney's Aftermath (#2.7)}  [Himself]
+			"Couples Therapy" (2012) {Exposing the Real Issues (#2.4)}  [Himself]
+			"Couples Therapy" (2012) {Final Confrontations (#2.9)}  [Himself]
+			"Couples Therapy" (2012) {Opening Up (#2.2)}  [Himself]
+			"Couples Therapy" (2012) {Playing by the Rules (#2.6)}  [Himself]
+			"Couples Therapy" (2012) {Power Dynamics (#2.5)}  [Himself]
+			"Couples Therapy" (2012) {Putting Love to the Test (#2.8)}  [Himself]
+			"Couples Therapy" (2012) {Season Finale (#2.10)}  [Himself]
+			"Ego Trip's Race-O-Rama" (2005)  [Himself]
+			"Kendra" (2009) {A Star Is Shorn (#1.4)}  [Himself]
+			"Kendra" (2009) {Go, Kendra! (#1.1)}  [Himself]
+			"Kendra" (2009) {Keepin' It Real (#1.10)}  (archive footage)  [Himself]
+			"Kendra" (2009) {Let Them Eat Cupcakes (#2.7)}  [Himself - Rap Artist]
+			"Late Night with Jimmy Fallon" (2009) {(#1.930)}  [Himself - Guest]
+			"Miss Rap Supreme" (2008) {(#1.3)}  [Himself - Celebrity Guest]  <13>
+			"RapFix Live" (2010) {Bow Wow, Too $hort (#3.4)}  [Himself]  <3>
+			"Stretched" (2011)  [Too $hort]
+			"The Game" (2006) {Mi Casa Es Su Casa (#1.7)}  [Himself]
+			"The Naughty Show" (2011) {Too $hort (#2.57)}  [Himself]
+			"Tom Green Live!" (2006) {(2007-04-13)}  [Himself]
+			"Unsung" (2008) {Too $hort}  [Himself]
+			"Video on Trial" (2005) {(#1.36)}  (archive footage)  [Himself]
+
+$lim, Bee Moe		Fatherhood 101 (2013)  (as Brandon Moore)  [Himself - President, Passages]
+			For Thy Love 2 (2009)  [Thug 1]
+			Night of the Jackals (2009) (V)  [Trooth]
+			"Idle Talk" (2013)  (as Brandon Moore)  [Himself]
+			"Idle Times" (2012) {(#1.1)}  (as Brandon Moore)  [Detective Ryan Turner]
+			"Idle Times" (2012) {(#1.2)}  (as Brandon Moore)  [Detective Ryan Turner]
+			"Idle Times" (2012) {(#1.3)}  (as Brandon Moore)  [Detective Ryan Turner]
+			"Idle Times" (2012) {(#1.4)}  (as Brandon Moore)  [Detective Ryan Turner]
+			"Idle Times" (2012) {(#1.5)}  (as Brandon Moore)  [Detective Ryan Turner]
+			"Money Power & Respect: The Series" (2010) {Bottom Dollar (#2.7)}  [Bee Moe Slim]
+			"Money Power & Respect: The Series" (2010) {Flip Side (#2.5)}  [Bee Moe Slim]
+
+& Davi, Bruninho	Michel na Balada (2011) (V)  [Themselves]
+			Michel Teló: Sunset (2013) (V)  [Themselves]
+
+Þórðarson, Theodór Kristinn	Peningar (2004)  [Policeman]
+
+Þórðarson, Tómas Ingi	Eitt Skot (2011)  [Baldur]  <2>
+			Ibiza (2013)  [Siggi]
+			No homo (2012)  [Arnar]  <1>
+			Svarti Skafrenningurinn (2012)
+
+Þórðarsson, Einar Mar	"Óli á Hrauni" (2008) {Stjórnmálaumhverfið (#2.7)}  [Himself]
+
+Þórðarsson, Haukur	The Gentlemen (2009)  [Himself]
+
+Þórðarsson, Skúli	Salt (2014)  [Sturla]
+
+Þórðarsson, Árni	Leitin að Livingstone (2013)  [Denni]
+
+à Hiller, Legaren	The Sleep of Cyma Roget (1920)  [Undetermined Role]  <5>
+
+þórhallsson, Þórhallur	"Heimsendir" (2011) {Á tæpasta vaði (#1.8)}  [Lögreglumaður]  <53>
+
+-----------------------------------------------------------------------------
+SUBMITTING UPDATES
+==================
+
+We rely on users of the database to submit corrections and additions to keep 
+the list as accurate and complete as possible. The most convenient method
+of submitting them is via the movie mail-server's central collection service. 
+For a comprehensive guide send an e-mail message with the subject: 
+
+  HELP ADD FULL
+
+to <mail-server@imdb.com>. 
+
+The instructions specific to the actors list are given below.
+
+
+KEYWORD INTERFACE
+=================
+
+This is the most flexible interface but can appear quite complex if you aren't
+familiar with the organization of the database. 
+
+Additions
+---------
+
+(1) mark the start of the data with the word:
+
+    ACTOR
+
+(2) for each addition, include on a separate line an entry of the form:
+
+     <name>|<title>|<attributes>|<character name>|<order>
+
+    where:
+
+     <name> is the actors name in <surname>, <firstname> order. Please note
+            the space after the comma as in: "Grant, Cary". 
+
+     <title> is the title of the movie or TV-series in which the actor 
+             appeared, please include the year of release as part of the title
+             (see examples below).
+
+     <attributes> records any award nominations or wins and in most cases will
+                  be empty. Example attributes include:
+
+       (AA)           = academy award winner (best actor)
+       (AAN)          = academy award nominee (best actor)
+       (S:AA)         = academy award winner (best supporting actor)
+       (S:AAN)        = academy award nominee (best supporting actor)
+       (GG)           = golden globe winner (best drama actor)
+       (GGN)          = golden globe nominee (best drama actor)
+
+     <character name>  is the character name of the actor.
+
+     <order> is a number to record the position in which the actor appears in
+             the credits (1=star billing)
+
+    The full additions guide contains more information on the formats. 
+
+    Notes:
+
+     - Apart from the <name> and <title> all these fields are optional, but
+       please leave the "|" separator for any blank fields, otherwise the some
+       of the data may be lost.
+
+     - Guest appearances in TV-series are NOT eligible for the main actors and
+       actresses list. The person must have played a recurring role across a 
+       number of episodes in order to be included. See the section describing
+       the biography database for an alternative method of adding this type of 
+       information.
+
+     - Please only credit individual names. For example, if all the members of
+       a particular rock group appeared in a movie then include them under 
+       their individual names and not the name of the whole group.
+
+     - The actors and actresses sections are for people only. No animals.
+
+    Examples:
+
+    ACTOR
+    Grant, Cary|North by Northwest (1959)||Rogert Thornhill|1
+    Grant, Cary|Awful Truth, The (1937)|||1
+    Grant, Cary|Philadelphia Story, The (1940)|||
+    Hopkins, Anthony|Silence of the Lambs, The (1990)|(AA)||
+
+(3) If the additions include a title that is new to the database, please also 
+    include a section of the form:
+
+    TITLE
+    <title>|<year>|
+
+    Example:
+    
+    TITLE
+    North by Northwest (1959)|1959|
+    Silence of the Lambs, The (1960)|1990|
+
+(4) Mark the end of your data with the word
+
+    END
+
+    on a separate line.
+
+(5) Mail the data to <add@imdb.com>. The mail-server will mail a receipt back
+    to you and place the data in the queue for processing by the list managers 
+    in the next update.
+
+
+Character Name Additions
+------------------------
+
+If you wish to add character names to *existing* entries in the database only,
+use the keyword:
+
+  CHARA
+
+and the format:
+
+  <name>|<title>|<character name>
+
+
+Cast Ordering Additions
+-----------------------
+
+If you wish to add cast ordering information to *existing* entries in the 
+database only, use the keyword:
+
+  ORDER
+
+and the format:
+
+  <name>|<title>|<order>
+
+
+Deletions
+---------
+
+To delete an incorrect entry on the list, the format is similar to those 
+described above, but a '!' character is placed at the start of each entry. The
+format is:
+
+ACTOR
+!<name>|<title>|
+
+For example:
+
+ACTOR
+!Grant, Cary|Notorious (1992) (TV)|
+
+
+Corrections
+-----------
+
+(1) Correcting a name across the whole database
+
+    If you spot a spelling error in a name in the database, use the keyword
+
+      NAMECORRECT
+
+    and the format:
+
+      <current name>|<correct name>
+
+    For example:
+
+      NAMECORRECT
+      Bogart, Humphry|Bogart, Humphrey|
+
+(2) Replacing an individual entry
+
+    Replacements can be made by deleting the incorrect entry and adding the 
+    correct version. For example:
+
+      ACTOR
+      !Grant, Cary|Notorious (1992) (TV)|
+      Grant, Cary|Notorious (1946)|||
+
+(3) Other corrections
+
+    Finally, if your correction cannot be expressed in the forms above, use
+    the keyword:
+
+      CORRECT
+
+    and then include a description of your correction in a free text over as
+    many lines as you need.
+
+-----------------------------------------------------------------------------
+
+COPYING POLICY
+==============
+
+This file is copyright (c) 1990-2005 by The Internet Movie Database Ltd. All 
+rights reserved.
+
+Disclaimer
+----------
+   
+    This is a  database  of  movie  related  information  compiled  by
+    Internet  Movie  Database  Ltd (IMDb). While every effort has been
+    made to  ensure  the  accuracy  of  the  database  IMDb  gives  no
+    warranty  as  to  the accuracy of the information contained in the
+    database.  IMDb  reserves  the  right  to   withdraw   or   delete
+    information at any time. 
+       
+    This service is provided for the information of users only. It  is
+    not   provided  with  the  intention  that  users  rely  upon  the
+    information for any purposes. Accordingly,  IMDb  shall  under  no
+    circumstances  be liable for any loss or damage, including but not
+    limited to loss of profits, goodwill or indirect or  consequential
+    loss   arising   out   of  any  use  of  or  inaccuracies  in  the
+    information. All warranties express or  implied  are  excluded  to
+    the fullest extent permissible by law. 
+       
+    All information in this file  is  Copyright  2005  Internet  Movie
+    Database  Limited.  Reproduction,  distribution or transmission by
+    any means without the prior permission of IMDb is prohibited.  All
+    rights reserved. 
+
+    For further information contact <licensing@imdb.com>
+       
+         -------------------------------------------------------
+   
+    All data and software released by Internet Movie Database  Ltd  is
+    freely  available  to  anyone  within certain limitations. You are
+    encouraged to quote subsets of the database  in  USENET  articles,
+    movie  related  FAQs,  magazine  articles etc. We do ask, however,
+    that you make reference to the source of the data  and  provide  a
+    pointer to the database for the benefit of the reader. 
+       
+    Permission is granted  by  the  copyright  holder  to  allow  free
+    distribution  of  this  file  and  any  other part of the Internet
+    Movie  Database  in  an  ELECTRONIC  FORM  ONLY,   providing   the
+    following conditions are met: 
+       
+         1. NO FEE OF ANY KIND, however indirect, will be  charged
+            for  its  distribution.  If  this file is being stored
+            for  later  distribution  to  anyone   that   can   be
+            construed   as   a   customer   of  yourself  or  your
+            organisation YOU MUST contact Internet Movie  Database
+            Ltd for permission. 
+            
+         2. Each  of  the  database  files  may   be   distributed
+            individually  but  only  in an unaltered form. All the
+            header and trailer information, including this  notice
+            and  the  details  on how to access the database, must
+            remain intact. 
+            
+         3. Specifically the files may NOT be  used  to  construct
+            any  kind  of  on-line database (except for individual
+            personal use). Clearance for  ALL  such  on-line  data
+            resources   must  be  requested  from  Internet  Movie
+            Database Ltd 
+            
+         4. In addition, copies of  the  Internet  Movie  Database
+            frequently  asked  questions  list and additions guide
+            must be made available in the same area / by the  same
+            method as the other database files. 
+
+         5. CD-ROM  distribution  is  prohibited  without  written
+            permission from the Internet Movie Database Ltd 
+            
+    Distribution by e-mail, BBS and  Internet  systems  is  positively
+    encouraged within these limitations. 
+       
+    The files and software which make up the  movie  database  may  be
+    uploaded  to  commercial  BBS  systems  providing  that  the above
+    conditions are met and no *additional* fees are applied above  the
+    standard connect time or downloading charges. 
+
+    For further info visit http://www.imdb.com/licensing/contact

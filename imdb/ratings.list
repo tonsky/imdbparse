@@ -1,0 +1,485 @@
+CRC: 0xB3F89343  File: ratings.list  Date: Fri Mar  7 00:00:00 2014
+
+From: vote@imdb.com (Movie Ratings Report)
+Subject: Movie Ratings Report
+
+For information on the list format, and on submitting your ratings,
+see the end of this posting.
+
+Details on obtaining this posting via FTP are also given below.
+
+Comments, suggestions etc. via e-mail to <help@imdb.com>
+
+TOP 250 MOVIES (25000+ VOTES)
+
+The formula used to calculate the top 250 movies is:
+
+  weighted rank = (v/(v+k))*X + (k/(v+k))*C
+
+  where:
+
+    X = average for the movie (mean)
+    v = number of votes for the movie
+    k = minimum votes required to be listed in the top 250 (currently 25000)
+    C = the mean vote across the whole report (currently 6.90)
+
+note: for this top 250, only votes from regular voters are considered.
+
+New  Distribution  Votes  Rank  Title
+      0000000125  1171520   9.2  The Shawshank Redemption (1994)
+      0000000125  814155   9.2  The Godfather (1972)
+      0000000124  535889   9.0  The Godfather: Part II (1974)
+      0000000124  1137684   8.9  The Dark Knight (2008)
+      0000000124  902999   8.9  Pulp Fiction (1994)
+      0000000124  351656   8.9  Il buono, il brutto, il cattivo. (1966)
+      0000000123  593890   8.9  Schindler's List (1993)
+      0000000133  290524   8.9  12 Angry Men (1957)
+      0000000124  837613   8.9  The Lord of the Rings: The Return of the King (2003)
+      0000000123  891458   8.8  Fight Club (1999)
+      0000000124  864260   8.8  The Lord of the Rings: The Fellowship of the Ring (2001)
+      0000000123  558951   8.8  Star Wars: Episode V - The Empire Strikes Back (1980)
+      0000000124  932216   8.7  Inception (2010)
+      0000000123  790478   8.7  Forrest Gump (1994)
+      0000000233  487541   8.7  One Flew Over the Cuckoo's Nest (1975)
+      0000000233  510316   8.7  Goodfellas (1990)
+      0000000123  753546   8.7  The Lord of the Rings: The Two Towers (2002)
+      0000000123  627218   8.7  Star Wars (1977)
+      0000000123  834103   8.7  The Matrix (1999)
+      0000000124  171414   8.7  Shichinin no samurai (1954)
+      0000000233  382820   8.7  Cidade de Deus (2002)
+      0000001232  684926   8.6  Se7en (1995)
+      0000000233  519189   8.6  The Usual Suspects (1995)
+      0000000223  156686   8.6  C'era una volta il West (1968)
+      0000001232  578012   8.6  The Silence of the Lambs (1991)
+      0000000123  196232   8.6  It's a Wonderful Life (1946)
+      0000000232  496575   8.6  Léon (1994)
+      0000001123  294830   8.6  Casablanca (1942)
+      0000001222  470403   8.6  Raiders of the Lost Ark (1981)
+      0000000123  263125   8.6  La vita è bella (1997)
+      0000001222  227463   8.6  Rear Window (1954)
+      0000000232  544701   8.6  American History X (1998)
+      0000001222  293979   8.6  Psycho (1960)
+      0000000223   69235   8.5  City Lights (1931)
+      0000001232  595084   8.5  Saving Private Ryan (1998)
+      0000000123  270453   8.5  Sen to Chihiro no kamikakushi (2001)
+      0000001232  600738   8.5  Memento (2000)
+      0000000233  280456   8.5  Intouchables (2011)
+      0000001222  519275   8.5  Terminator 2: Judgment Day (1991)
+      0000000223   89643   8.5  Modern Times (1936)
+      0000001223  101218   8.5  Sunset Blvd. (1950)
+      0000001123  261327   8.5  Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)
+      0000001223  330769   8.5  Apocalypse Now (1979)
+      0000000232  327872   8.5  The Pianist (2002)
+      0000001232  494387   8.5  The Green Mile (1999)
+      0000001232  592941   8.5  The Departed (2006)
+      0000001222  654966   8.5  Gladiator (2000)
+      0000000123  750784   8.5  The Dark Knight Rises (2012)
+      0000001222  473948   8.5  Back to the Future (1985)
+      0000001222  388692   8.5  Alien (1979)
+      0000000232  557837   8.5  Django Unchained (2012)
+      0000000232  183803   8.4  Das Leben der Anderen (2006)
+      0000001232  549899   8.4  The Prestige (2006)
+      0000001222   86936   8.4  The Great Dictator (1940)
+      0000001222  414536   8.4  The Shining (1980)
+      0000000223  101969   8.4  Nuovo Cinema Paradiso (1988)
+      0000001222   84272   8.4  Paths of Glory (1957)
+      0000001222  598104   8.4  American Beauty (1999)
+      0000001222  164837   8.4  North by Northwest (1959)
+      0000001222  471954   8.4  WALL·E (2008)
+      0000001223  403160   8.4  The Lion King (1994)
+      0000001223  377790   8.4  Le fabuleux destin d'Amélie Poulain (2001)
+      0000001123  227272   8.4  Citizen Kane (1941)
+      0000001222  351215   8.4  Aliens (1986)
+      0000001222  352785   8.4  Toy Story 3 (2010)
+      0000001222  174710   8.4  Vertigo (1958)
+      0000001222   73159   8.4  M (1931)
+      0000001222  126071   8.4  Das Boot (1981)
+      0000001222  347821   8.4  Taxi Driver (1976)
+      0000001223  383965   8.4  A Clockwork Orange (1971)
+      0000001222   70644   8.4  Double Indemnity (1944)
+      0000001222  242870   8.4  Oldeuboi (2003)
+      0000001222  153601   8.4  To Kill a Mockingbird (1962)
+      0000001222  247631   8.4  The Wolf of Wall Street (2013)
+      0000001223  148481   8.4  Mononoke-hime (1997)
+      0000001222  451045   8.4  Reservoir Dogs (1992)
+      0000001222  410028   8.4  Requiem for a Dream (2000)
+      0000001222  158209   8.4  Once Upon a Time in America (1984)
+      0000001222  441657   8.4  Star Wars: Episode VI - Return of the Jedi (1983)
+      0000001223  139605   8.4  Lawrence of Arabia (1962)
+      0000001222  519485   8.4  Braveheart (1995)
+      0000001222  472162   8.4  Eternal Sunshine of the Spotless Mind (2004)
+      0000000223   84044   8.4  Hotaru no haka (1988)
+      0000001221  331636   8.3  Full Metal Jacket (1987)
+      0000001222   39863   8.3  Witness for the Prosecution (1957)
+      0000001223  107211   8.3  Singin' in the Rain (1952)
+      0000001222  126588   8.3  The Sting (1973)
+      0000001222   63078   8.3  Ladri di biciclette (1948)
+      0000001222  282561   8.3  Monty Python and the Holy Grail (1975)
+      0000001222  196644   8.3  Amadeus (1984)
+      0000001222   61173   8.3  All About Eve (1950)
+      0000001222   58841   8.3  The Treasure of the Sierra Madre (1948)
+      0000001222   73619   8.3  Rashômon (1950)
+      0000001222  428419   8.3  Snatch. (2000)
+      0000001221  317441   8.3  L.A. Confidential (1997)
+      0000001222   76835   8.3  The Apartment (1960)
+      0000001222  128698   8.3  Some Like It Hot (1959)
+      0000001222   85397   8.3  The Third Man (1949)
+      0000001322  103189   8.3  Per qualche dollaro in più (1965)
+      0000000223  103881   8.3  Jodaeiye Nader az Simin (2011)
+      0000001322  361802   8.3  Indiana Jones and the Last Crusade (1989)
+      0000001222  556243   8.3  Inglourious Basterds (2009)
+      0000001222   53052   8.3  Yôjinbô (1961)
+      0000001222  654276   8.3  Batman Begins (2005)
+      0000001222   39945   8.3  The Kid (1921)
+      0000001123  293540   8.3  2001: A Space Odyssey (1968)
+      0000001222  171393   8.3  Raging Bull (1980)
+      0000001222  204344   8.3  Unforgiven (1992)
+      0000001222   80304   8.3  Metropolis (1927)
+      0000001222  158672   8.3  Chinatown (1974)
+      0000001322  406618   8.3  Toy Story (1995)
+      0000001222   57749   8.3  Mr. Smith Goes to Washington (1939)
+      0000001321  428436   8.3  Die Hard (1988)
+      0000001222  421340   8.3  Up (2009)
+      0000001222  182680   8.3  Der Untergang (2004)
+      0000001222  375696   8.3  Scarface (1983)
+      0000001222  119106   8.2  The Great Escape (1963)
+      0000001222  337343   8.2  El laberinto del fauno (2006)
+      0000001222  128874   8.2  12 Years a Slave (2013)
+      0000001222   73440   8.2  On the Waterfront (1954)
+      0000001222  109110   8.2  The Bridge on the River Kwai (1957)
+      0000000124   46733   8.2  Taare Zameen Par (2007)
+      0000001222  321588   8.2  Heat (1995)
+      0000001222   79979   8.2  Det sjunde inseglet (1957)
+      0000001331   76845   8.2  Jagten (2012)
+      0000001222   44987   8.2  Smultronstället (1957)
+      0000000124  101755   8.2  3 Idiots (2009)
+      0000001222  119148   8.2  The Elephant Man (1980)
+      0000001222   58314   8.2  Ran (1985)
+      0000001222   37192   8.2  The General (1926)
+      0000000123   29184   8.2  Ikiru (1952)
+      0000001222   84081   8.2  Her (2013)
+      0000001222  347979   8.2  Blade Runner (1982)
+      0000001222   44868   8.2  The Gold Rush (1925)
+      0000001321  301931   8.2  Lock, Stock and Two Smoking Barrels (1998)
+      0000001222   99948   8.2  Tonari no Totoro (1988)
+      0000001321  402300   8.2  Gran Torino (2008)
+      0000001222   65144   8.2  Rebecca (1940)
+      0000001321  409903   8.2  Good Will Hunting (1997)
+      0000001322  134216   8.2  Rush (2013/I)
+      0000000124   35728   8.2  Rang De Basanti (2006)
+      0000001222  377471   8.2  The Big Lebowski (1998)
+      0000001222   46110   8.2  It Happened One Night (1934)
+      0000001222   81279   8.2  El secreto de sus ojos (2009)
+      0000001222  217127   8.2  Warrior (2011)
+      0000001321  234763   8.2  Casino (1995)
+      0000001222   89943   8.2  Cool Hand Luke (1967)
+      0000001222  173323   8.2  The Deer Hunter (1978)
+      0000001222  552623   8.2  V for Vendetta (2005)
+      0000001222   85384   8.2  The Maltese Falcon (1941)
+      0000001221  307826   8.2  Fargo (1996)
+      0000001213  159210   8.2  Gone with the Wind (1939)
+      0000001221  340844   8.2  Trainspotting (1996)
+      0000001222  289902   8.2  Into the Wild (2007)
+      0000001222  134611   8.1  Hauru no ugoku shiro (2004)
+      0000001222  281925   8.1  How to Train Your Dragon (2010)
+      0000001321  194022   8.1  Hotel Rwanda (2004)
+      0000001321  512630   8.1  The Sixth Sense (1999)
+      0000001321  110202   8.1  Butch Cassidy and the Sundance Kid (1969)
+      0000001222   28467   8.1  Judgment at Nuremberg (1961)
+      0000001222  137481   8.1  Annie Hall (1977)
+      0000001222  187375   8.1  The Thing (1982)
+      0000001321  216126   8.1  Platoon (1986)
+      0000001321   71828   8.1  Dial M for Murder (1954)
+      0000001222  487248   8.1  Sin City (2005)
+      0000001222  317199   8.1  Gravity (2013)
+      0000001222  505963   8.1  Kill Bill: Vol. 1 (2003)
+      0000001321  385569   8.1  A Beautiful Mind (2001)
+      0000001222   55097   8.1  Touch of Evil (1958)
+      0000001222  430453   8.1  No Country for Old Men (2007)
+      0000001221   29006   8.1  Les diaboliques (1955)
+      0000001222   76384   8.1  Mary and Max (2009)
+      0000001222  197067   8.1  Life of Brian (1979)
+      0000001322  446983   8.1  Finding Nemo (2003)
+      0000001223   43117   8.1  The Lego Movie (2014)
+      0000001222   74859   8.1  Network (1976)
+      0000001222  221115   8.1  The Princess Bride (1987)
+      0000001223  631150   8.1  The Avengers (2012)
+      0000001321  129534   8.1  Amores perros (2000)
+      0000001212  207747   8.1  The Wizard of Oz (1939)
+      0000001322  196553   8.1  Stand by Me (1986)
+      0000001222   45325   8.1  The Grapes of Wrath (1940)
+      0000001222   29759   8.1  The Best Years of Our Lives (1946)
+      0000001222  114478   8.1  Ben-Hur (1959)
+      0000001222   49561   8.1  Les quatre cents coups (1959)
+      0000001222  270849   8.1  There Will Be Blood (2007)
+      0000001321  331244   8.1  Million Dollar Baby (2004)
+      0000001221   44475   8.1  Incendies (2010)
+      0000001223   74606   8.1  Hachi: A Dog's Tale (2009)
+      0000001113   57970   8.1  8½ (1963)
+      0000001321   68792   8.1  Strangers on a Train (1951)
+      0000001222  427303   8.1  Donnie Darko (2001)
+      0000001321  348110   8.1  The Bourne Ultimatum (2007)
+      0000001222   60389   8.1  High Noon (1952)
+      0000001321   73649   8.1  In the Name of the Father (1993)
+      0000001322  120731   8.1  Gandhi (1982)
+      0000001222   40174   8.1  Persona (1966)
+      0000001222   55837   8.1  Notorious (1946)
+      0000001321  321945   8.1  The King's Speech (2010)
+      0000000223   32615   8.1  Lagaan: Once Upon a Time in India (2001)
+      0000001222   68218   8.1  Mou gaan dou (2002)
+      0000001212  288159   8.1  Jaws (1975)
+      0000001223   29953   8.1  Fanny och Alexander (1982)
+      0000001222   59469   8.1  Kaze no tani no Naushika (1984)
+      0000001321  339933   8.1  Twelve Monkeys (1995)
+      0000001222  224668   8.1  The Hobbit: The Desolation of Smaug (2013)
+      0000001222   34825   8.1  La strada (1954)
+      0000001222   47384   8.0  The Night of the Hunter (1955)
+      0000001321  409841   8.0  The Terminator (1984)
+      0000001322  100080   8.0  Yip Man (2008)
+      0000001222   40971   8.0  Who's Afraid of Virginia Woolf? (1966)
+      0000001222   49648   8.0  The Big Sleep (1946)
+      0000001113   47188   8.0  Stalker (1979)
+      0000001222   25566   8.0  La battaglia di Algeri (1966)
+      0000001321  306498   8.0  Groundhog Day (1993)
+      0000001321  136561   8.0  Dog Day Afternoon (1975)
+      0000001322  241515   8.0  Rocky (1976)
+      0000001222  342850   8.0  Harry Potter and the Deathly Hallows: Part 2 (2011)
+      0000001222   71462   8.0  La haine (1995)
+      0000001222   74162   8.0  Barry Lyndon (1975)
+      0000001322  567626   8.0  Pirates of the Caribbean: The Curse of the Black Pearl (2003)
+      0000001222  117597   8.0  Before Sunrise (1995)
+      0000001221  160199   8.0  The Graduate (1967)
+      0000001321   46746   8.0  The Hustler (1961)
+      0000001213   85155   8.0  A Christmas Story (1983)
+      0000001223   30218   8.0  Underground (1995)
+      0000001222   51854   8.0  Festen (1998)
+      0000001321  490270   8.0  Shutter Island (2010)
+      0000001322   60565   8.0  Tenkû no shiro Rapyuta (1986)
+      0000001222   35727   8.0  Stalag 17 (1953)
+      0000001222   69023   8.0  Roman Holiday (1953)
+      0000001321  370164   8.0  Monsters, Inc. (2001)
+      0000001222   54502   8.0  Fa yeung nin wa (2000)
+      0000001321   38697   8.0  Salinui chueok (2003)
+      0000001321   91406   8.0  Per un pugno di dollari (1964)
+      0000001221  465967   8.0  Slumdog Millionaire (2008)
+      0000001321  216840   8.0  The Help (2011)
+      0000001222   45997   8.0  Tropa de Elite 2 - O Inimigo Agora É Outro (2010)
+      0000000124   25700   8.0  Swades: We, the People (2004)
+      0000001321   47379   8.0  The Killing (1956)
+      0000001221  409284   8.0  Black Swan (2010)
+      0000001321   71604   8.0  Rope (1948)
+      0000001222   47264   8.0  Trois couleurs: Rouge (1994)
+      0000001321  451205   8.0  The Truman Show (1998)
+      0000001321   75260   8.0  Le scaphandre et le papillon (2007)
+      0000001212   35353   8.0  La dolce vita (1960)
+      0000001212  206013   8.0  Beauty and the Beast (1991)
+      0000001321  175207   8.0  Prisoners (2013)
+      0000001321  398162   8.0  Star Trek (2009)
+      0000001222  112043   8.0  Before Sunset (2004)
+
+BOTTOM 10 MOVIES (1500+ VOTES)
+
+New  Distribution  Votes  Rank  Title
+      6000000002   22023   1.9  Superbabies: Baby Geniuses 2 (2004)
+      5100000001    4908   1.9  Space Mutiny (1988)
+      6000000001    6962   1.9  Birdemic: Shock and Terror (2010)
+      5100000001    8729   1.9  Going Overboard (1989)
+      7000000001    4693   1.9  Emret komutanim: Sah mat (2007)
+      5100000001    2163   1.9  Final Justice (1985)
+      6000000001    6168   1.9  Keloglan kara prens'e karsi (2006)
+      6000000000   62951   1.9  Disaster Movie (2008)
+      7000000000   29564   1.8  The Hottie & the Nottie (2008)
+      9000000000   42138   1.3  Gunday (2014)
+
+MOVIE RATINGS REPORT
+
+New  Distribution  Votes  Rank  Title
+      1000000103      56   6.3  "#1 Single" (2006)
+      .....111.5       6   8.5  "#7DaysLater" (2013)
+      1..2..3.12       9   6.6  "#ByMySide" (2012)
+      1.11.1...4       7   6.3  "#nitTWITS" (2011)
+      0000011102    3987   6.3  "$#*! My Dad Says" (2010)
+      00.0112201      65   6.9  "$#*! My Dad Says" (2010) {Code Ed (#1.4)}
+      0.00012202      50   6.9  "$#*! My Dad Says" (2010) {Corn Star (#1.14)}
+      0..0011211      48   7.1  "$#*! My Dad Says" (2010) {Dog Ed Pursuit (#1.7)}
+      0.00012101      60   7.0  "$#*! My Dad Says" (2010) {Easy, Writer (#1.6)}
+      0...013101      47   7.1  "$#*! My Dad Says" (2010) {Ed Goes to Court (#1.15)}
+      0.00012102      51   7.1  "$#*! My Dad Says" (2010) {Family Dinner for Schmucks (#1.11)}
+      00.0012111      47   6.9  "$#*! My Dad Says" (2010) {Goodson Goes Deep (#1.12)}
+      0..0012101      41   7.0  "$#*! My Dad Says" (2010) {Lock and Load (#1.17)}
+      0.00012101      50   7.0  "$#*! My Dad Says" (2010) {Make a Wish (#1.9)}
+      0.0.001202      58   7.2  "$#*! My Dad Says" (2010) {Not Without My Jacket (#1.5)}
+      0000121101     119   6.0  "$#*! My Dad Says" (2010) {Pilot (#1.1)}
+      0.00012101      49   7.1  "$#*! My Dad Says" (2010) {The Better Father (#1.13)}
+      0000002112      85   7.3  Üç arkadas (1958)
+      0000002102     108   6.9  Üç arkadas (1971)
+      002120.0.0      22   4.3  Üç halka 25 (1986)
+      0000002112     200   7.4  Üç kagitcilar (1976)
+      ..1.43...1       9   5.7  Üç kardese bir gelin (1965)
+      ..1..1.1.5       7   8.1  Üç karislik dünya (1984)
+      1...0.0023      14   7.7  Üç kisilik ask (2004) (TV)
+      0000002113    1408   7.7  Üç kâgitçi (1981)
+      0000002211   10239   7.4  Üç maymun (2008)
+      0001210101      65   5.8  Üç sevgili (1972)
+      1000001101      31   5.4  Üç süpermen olimpiyatlarda (1984)
+      0.00012011      31   6.9  Üç tekerlekli bisiklet (1962)
+      1..1.20102      19   6.6  Üçte bir (2009)
+      0.00.0..06      23   8.1  Üçüncü Selim'in gözdesi (1950)
+      200100.1.2      29   5.0  Üçüncü göz (1988)
+      0000002211    1241   7.5  Üçüncü sayfa (1999)
+      30.......6      15   6.5  Üçünüzü de mihlarim (1965)
+      00.00.1015      29   8.2  Þegar Kanínur Fljúga (2011)
+      30...2.0.3      13   5.5  Þegar það gerist (1998) (TV)
+      31.0..1011      16   5.2  Þetta Reddast (2013)
+      0...000224      77   8.4  Þetta er ekkert mál (2006)
+      00.1102102      29   6.9  Þriðja nafni (2003)
+      ...3.1..24      10   7.6  Þröng sýn (2005)
+      ..11.11.21       7   6.9  ärtico (2014)
+      ..00003001      12   6.9  ö (2012)
+
+------------------------------------------------------------------------------
+
+REPORT FORMAT
+=============
+
+     In this list, movies have been rated on a scale of 1 to 10, 10 being
+good and 1 being bad.  For each movie, the total number of votes, the
+average rating, and the vote distribution are shown.  New movies are indicated
+by a "*" before their entry.
+
+     The vote distribution uses a single character to represent the percentage
+of votes for each ranking.  The following characters codes can appear:
+
+     "." no votes cast        "3" 30-39% of the votes  "7" 70-79% of the votes
+     "0"  1-9%  of the votes  "4" 40-49% of the votes  "8" 80-89% of the votes
+     "1" 10-19% of the votes  "5" 50-59% of the votes  "9" 90-99% of the votes
+     "2" 20-29% of the votes  "6" 60-69% of the votes  "*" 100%   of the votes
+
+
+HOW TO VOTE
+===========
+
+     To have your votes tallied in the list, send mail to
+vote@imdb.com.  In your mail, any line beginning with the word 
+"vote" will be considered as a vote.  All other lines ARE IGNORED.  No human
+will see your mail.  Votes must be of the form
+
+  vote <rating> <title>
+
+where <rating> is an integer between 1 and 10, and <title> is everything on the
+line after the <rating>.  Case is not considered in movie titles.  Valid votes
+might be
+
+  vote 8 Annie Hall (1977)
+  vote 1 santa claus conquers the martians (1964)
+
+To make things easy, the reply-to field of this posting is set to the
+vote tabulator.  Simply hit "r" to send in your votes.
+
+The movie mail-server can now provide a number of ballots to help you get
+started in voting. For more details send an e-mail message with the subject:
+
+   HELP BALOT
+
+to <mail-server@imdb.com> (NOTE: this address is different from the vote
+tabulator address). There are currently three ballots available via the 
+server: the currently weekly ballot as posted to rec.arts.movies.lists+surveys
+(use subject "BALOT WEEKLY"), one containing all the movies with 100+ votes 
+(use subject "BALOT POPULAR"), and one based on the must-see movies list posted
+to the group earlier this year (use subject "BALOT MUST-SEE"). Finally note 
+the commands all use the word BALOT rather than BALLOT owing to a limitation
+in the mail-server software.
+
+
+GENERAL INFORMATION
+===================
+
+This report is available via anonymous FTP from ftp.imdb.com and other sites
+as listed at http://www.imdb.com/interfaces
+
+For more information on the IMDb please see http://www.imdb.com/FAQ
+
+-----------------------------------------------------------------------------
+
+COPYING POLICY
+==============
+
+This file is copyright (c) 1993-2005 by The Internet Movie Database Ltd. All
+rights reserved.
+
+Disclaimer
+----------
+
+    This is a  database  of  movie  related  information  compiled  by
+    Internet  Movie  Database  Ltd (IMDb). While every effort has been
+    made to  ensure  the  accuracy  of  the  database  IMDb  gives  no
+    warranty  as  to  the accuracy of the information contained in the
+    database.  IMDb  reserves  the  right  to   withdraw   or   delete
+    information at any time.
+
+    This service is provided for the information of users only. It  is
+    not   provided  with  the  intention  that  users  rely  upon  the
+    information for any purposes. Accordingly,  IMDb  shall  under  no
+    circumstances  be liable for any loss or damage, including but not
+    limited to loss of profits, goodwill or indirect or  consequential
+    loss   arising   out   of  any  use  of  or  inaccuracies  in  the
+    information. All warranties express or  implied  are  excluded  to
+    the fullest extent permissible by law.
+
+    All information in this file  is  Copyright  2005  Internet  Movie
+    Database  Limited.  Reproduction,  distribution or transmission by
+    any means without the prior permission of IMDb is prohibited.  All
+    rights reserved.
+
+    For further information contact <licensing@imdb.com>
+
+         -------------------------------------------------------
+
+    All data and software released by Internet Movie Database  Ltd  is
+    freely  available  to  anyone  within certain limitations. You are
+    encouraged to quote subsets of the database  in  USENET  articles,
+    movie  related  FAQs,  magazine  articles etc. We do ask, however,
+    that you make reference to the source of the data  and  provide  a
+    pointer to the database for the benefit of the reader.
+
+    Permission is granted  by  the  copyright  holder  to  allow  free
+    distribution  of  this  file  and  any  other part of the Internet
+    Movie  Database  in  an  ELECTRONIC  FORM  ONLY,   providing   the
+    following conditions are met:
+
+         1. NO FEE OF ANY KIND, however indirect, will be  charged
+            for  its  distribution.  If  this file is being stored
+            for  later  distribution  to  anyone   that   can   be
+            construed   as   a   customer   of  yourself  or  your
+            organisation YOU MUST contact Internet Movie  Database
+            Ltd for permission.
+
+         2. Each  of  the  database  files  may   be   distributed
+            individually  but  only  in an unaltered form. All the
+            header and trailer information, including this  notice
+            and  the  details  on how to access the database, must
+            remain intact.
+
+         3. Specifically the files may NOT be  used  to  construct
+            any  kind  of  on-line database (except for individual
+            personal use). Clearance for  ALL  such  on-line  data
+            resources   must  be  requested  from  Internet  Movie
+            Database Ltd
+
+         4. In addition, copies of  the  Internet  Movie  Database
+            frequently  asked  questions  list and additions guide
+            must be made available in the same area / by the  same
+            method as the other database files.
+
+         5. CD-ROM  distribution  is  prohibited  without  written
+            permission from the Internet Movie Database Ltd
+
+    Distribution by e-mail, BBS and  Internet  systems  is  positively
+    encouraged within these limitations.
+
+    The files and software which make up the  movie  database  may  be
+    uploaded  to  commercial  BBS  systems  providing  that  the above
+    conditions are met and no *additional* fees are applied above  the
+    standard connect time or downloading charges.
+
+    For further information contact <licensing@imdb.com>
